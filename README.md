@@ -1,8 +1,5 @@
  
-README.md
-Original file line number	Diff line number	Diff line change
-@@ -1,37 +1,52 @@
-AI Sound Analysis
+
 =================
 [![GitHub Stars](https://img.shields.io/github/stars/YourUserName/ai-sound-analysis.svg)](https://github.com/YourUserName/ai-sound-analysis/stargazers) 
 [![GitHub Issues](https://img.shields.io/github/issues/YourUserName/ai-sound-analysis.svg)](https://github.com/YourUserName/ai-sound-analysis/issues) 
