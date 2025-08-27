@@ -1,13 +1,12 @@
- [![GitHub Stars](https://img.shields.io/github/stars/YourUserName/ai-sound-analysis.svg)](https://github.com/YourUserName/ai-sound-analysis/stargazers) 
-[![GitHub Issues](https://img.shields.io/github/issues/YourUserName/ai-sound-analysis.svg)](https://github.com/YourUserName/ai-sound-analysis/issues) 
-[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/YourUserName/ai-sound-analysis) 
+ [![GitHub Stars](https://img.shields.io/github/stars/esraa37tame/ai-sound-analysis.svg)](https://github.com/esraa37tame/ai-sound-analysis/stargazers) 
+[![GitHub Issues](https://img.shields.io/github/issues/esraa37tame/ai-sound-analysis.svg)](https://github.com/esraa37tame/ai-sound-analysis/issues) 
+[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/esraa37tame/ai-sound-analysis) 
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://your-demo-link.com)  
 Esraa Tamer
 ============
 
 This is a Python project for sound analysis using AI models.  
 It allows sound classification, waveform visualization, and easy testing of audio inputs.  
-[![GitHub Stars](https://img.shields.io/github/stars/esraa37tamer.svg)](https://github.com/esraa37tamer/stargazers)  
 [![GitHub Followers](https://img.shields.io/github/followers/esraa37tamer.svg)](https://github.com/esraa37tamer?tab=followers)  
 [![Profile Views](https://komarev.com/ghpvc/?username=esraa37tamer)](https://github.com/esraa37tamer)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-online-green.svg)](https://www.linkedin.com/in/esraatamernagah/)  
