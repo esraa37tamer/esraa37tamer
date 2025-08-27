@@ -1,21 +1,16 @@
 Esraa Tamer
 ============
 
-This is a Python project for sound analysis using AI models.  
-It allows sound classification, waveform visualization, and easy testing of audio inputs.  
+Hi! I’m **Esraa Tamer**, an aspiring developer passionate about technology and problem-solving.  
+Currently exploring **Odoo, Web Apps (Laravel), Python, and AI**.  
+Still at the start of my journey, but I dive into every challenge with curiosity and confidence.  
+
 [![GitHub Followers](https://img.shields.io/github/followers/esraa37tamer.svg)](https://github.com/esraa37tamer?tab=followers)  
 [![Profile Views](https://komarev.com/ghpvc/?username=esraa37tamer)](https://github.com/esraa37tamer)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-online-green.svg)](https://www.linkedin.com/in/esraatamernagah/)  
 
-I’m an aspiring developer passionate about technology and problem-solving.  
-Currently exploring **Odoo, Web Apps (Laravel), Python, and AI**.  
-Still at the start of my journey, but I dive into every challenge with curiosity and confidence.  
-
-
 ---
-## Buy me a coffee
 
-If you like this project or found it useful, please consider supporting me so I can dedicate more time to building open-source projects like this :)
 ## Support Me  
 
 If you like my work or just want to support my learning journey, feel free to connect with me or buy me a coffee ☕  
@@ -26,12 +21,6 @@ If you like my work or just want to support my learning journey, feel free to co
 
 ---
 
-## Features
-- Sound waveform visualization  
-- AI-based sound classification  
-- User-friendly interface  
-- Real-time audio support  
-- Easy setup and extendable  
 ## Skills & Interests
 - Python (Basics + AI exploration)  
 - Web Development with Laravel  
@@ -41,8 +30,6 @@ If you like my work or just want to support my learning journey, feel free to co
 
 ---
 
-## Setup
-Clone this repo to your desktop and run:
 ## Current Focus
 - Building a strong foundation in backend development  
 - Exploring AI & automation with Python  
@@ -58,7 +45,5 @@ Clone this repo to your desktop and run:
 
 ---
 
-```bash
-pip install -r requirements.txt
 ## License
 This profile and shared content are under the terms of the **MIT** license.
