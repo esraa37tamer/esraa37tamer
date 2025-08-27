@@ -1,7 +1,3 @@
- [![GitHub Stars](https://img.shields.io/github/stars/esraa37tame/ai-sound-analysis.svg)](https://github.com/esraa37tame/ai-sound-analysis/stargazers) 
-[![GitHub Issues](https://img.shields.io/github/issues/esraa37tame/ai-sound-analysis.svg)](https://github.com/esraa37tame/ai-sound-analysis/issues) 
-[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/esraa37tame/ai-sound-analysis) 
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://your-demo-link.com)  
 Esraa Tamer
 ============
 
