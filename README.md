@@ -12,12 +12,10 @@ It allows sound classification, waveform visualization, and easy testing of audi
 [![Profile Views](https://komarev.com/ghpvc/?username=esraa37tamer)](https://github.com/esraa37tamer)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-online-green.svg)](https://www.linkedin.com/in/esraatamernagah/)  
 
-![Project Preview](projects/Screenshot.png)
 I’m an aspiring developer passionate about technology and problem-solving.  
 Currently exploring **Odoo, Web Apps (Laravel), Python, and AI**.  
 Still at the start of my journey, but I dive into every challenge with curiosity and confidence.  
 
-![Profile Banner](/BLack Minimalist Corporate Staff Identity LinkedIn Banner.png)
 
 ---
 ## Buy me a coffee
