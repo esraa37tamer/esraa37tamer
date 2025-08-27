@@ -17,7 +17,7 @@ I’m an aspiring developer passionate about technology and problem-solving.
 Currently exploring **Odoo, Web Apps (Laravel), Python, and AI**.  
 Still at the start of my journey, but I dive into every challenge with curiosity and confidence.  
 
-![Profile Banner](https://drive.google.com/uc?export=view&id=1tNeenQOJewOpF8PSTmOyNFFi0X0kctQ7)
+![Profile Banner](BLack Minimalist Corporate Staff Identity LinkedIn Banner.png)
 
 ---
 ## Buy me a coffee
