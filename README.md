@@ -15,7 +15,7 @@ Still at the start of my journey, but I dive into every challenge with curiosity
 
 If you like my work or just want to support my learning journey, feel free to connect with me or buy me a coffee ☕  
 
-<a href="https://https://buymeacoffee.com/esraa37tamr?new=1" target="_blank"> <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"> </a>
+<a href="https://buymeacoffee.com/esraa37tamr?new=1" target="_blank"> <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"> </a>
 
 ---
 
